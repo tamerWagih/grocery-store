@@ -3,6 +3,7 @@ export const environment = {
   firebase: {
     apiKey: "AIzaSyA5QYv9abUML5yAopC1InK1wIwbZ6qcQ84",
     authDomain: "organic-shop-686c3.firebaseapp.com",
+    databaseURL: "https://organic-shop-686c3-default-rtdb.firebaseio.com",
     projectId: "organic-shop-686c3",
     storageBucket: "organic-shop-686c3.appspot.com",
     messagingSenderId: "778556051168",
