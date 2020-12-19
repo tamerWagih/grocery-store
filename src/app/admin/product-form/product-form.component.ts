@@ -5,13 +5,6 @@ import { CategoryService } from "./../../category.service";
 import { Component, OnInit } from "@angular/core";
 import "rxjs/add/operator/take";
 
-// interface Product {
-//   title: string;
-//   price: number;
-//   category: string[];
-//   imageUrl: string;
-// }
-
 @Component({
   selector: "app-product-form",
   templateUrl: "./product-form.component.html",
